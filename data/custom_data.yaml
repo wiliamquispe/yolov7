@@ -1,6 +1,6 @@
-train: /kaggle/working/yolov7/data/train
-val: /kaggle/working/yolov7/data/val
-test: /kaggle/working/yolov7/data/test 
+train: /kaggle/input/aug-02-yolov7/train
+val: /kaggle/input/aug-02-yolov7/val
+test: /kaggle/input/aug-02-yolov7/test 
 # number of classes
 nc: 1
 
